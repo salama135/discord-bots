@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2025-04-08T00:50:02.156Z",
+    "userId": "432307075545169920",
+    "eventType": "INBOX_VIEWED",
+    "details": {
+      "count": 1
+    }
+  }
+]

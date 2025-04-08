@@ -1,0 +1,16 @@
+{
+  "inbox": [
+    {
+      "id": 1744073161165,
+      "content": "test",
+      "created": "2025-04-08T00:46:01.165Z",
+      "status": "inbox"
+    }
+  ],
+  "projects": {},
+  "contexts": {},
+  "nextActions": [],
+  "waiting": [],
+  "someday": [],
+  "completed": []
+}
