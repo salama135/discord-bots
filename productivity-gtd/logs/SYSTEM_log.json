@@ -16,5 +16,14 @@
       "botUsername": "productivity-gtd#1024",
       "startTime": "2025-04-08T01:04:23.377Z"
     }
+  },
+  {
+    "timestamp": "2025-04-08T01:07:45.542Z",
+    "userId": "SYSTEM",
+    "eventType": "BOT_STARTED",
+    "details": {
+      "botUsername": "productivity-gtd#1024",
+      "startTime": "2025-04-08T01:07:45.540Z"
+    }
   }
 ]

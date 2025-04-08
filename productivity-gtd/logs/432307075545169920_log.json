@@ -6,5 +6,17 @@
     "details": {
       "count": 1
     }
+  },
+  {
+    "timestamp": "2025-04-08T01:08:06.145Z",
+    "userId": "432307075545169920",
+    "eventType": "INFO_VIEWED",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-04-08T01:09:42.518Z",
+    "userId": "432307075545169920",
+    "eventType": "INFO_VIEWED",
+    "details": {}
   }
 ]
