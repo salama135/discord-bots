@@ -2,6 +2,7 @@
 const { Client, GatewayIntentBits, EmbedBuilder } = require("discord.js");
 const fs = require("fs");
 const path = require("path");
+require('dotenv').config()
 
 // Initialize Discord client
 const client = new Client({
@@ -661,7 +662,7 @@ const exportUserLogs = (userId, format = "json") => {
 };
 
 // Login to Discord
-client.login("YOUR_BOT_TOKEN_HERE");
+client.login(process.env.DISCORD_BOT_TOKEN);
 
 // Set up periodic reminders for weekly review
 const scheduleWeeklyReview = () => {
